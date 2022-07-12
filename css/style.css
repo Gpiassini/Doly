@@ -1,0 +1,171 @@
+@charset "UTF-8";
+.BackgroungNav {
+  background-color: #1fbdb7;
+}
+
+.navbar .navbar-brand {
+  font-size: 25px;
+  color: #ffffff !important;
+  font-family: "Baloo 2", cursive;
+  padding-bottom: 5px;
+  padding-left: 2px;
+}
+
+.nav-item .nav-link {
+  font-size: 16px;
+  font-family: "Baloo 2", cursive;
+  color: #ffffff !important;
+}
+
+.botonesDesplegables {
+  background-color: #1fbdb7 !important;
+  font-family: "Baloo 2", cursive;
+}
+
+.a-botonesDesplegables {
+  color: #1fbdb7;
+}
+
+.styles-edit-banner-jumbotron {
+  background-color: #fdfdfd !important;
+  color: #1fbdb7 !important;
+  font-family: "Baloo 2", cursive;
+}
+
+.styles-edit-banner-jumbotron h1 {
+  padding-top: 20px;
+}
+
+.styles-edit-banner-jumbotron p {
+  font-size: 14px;
+  padding-left: 5px;
+  padding-top: 20px;
+}
+
+.foto-banner {
+  margin-top: 14px;
+  border-radius: 40px;
+}
+
+.h4-page-principal {
+  color: #1fbdb7;
+  font-family: "Baloo 2", cursive;
+  font-weight: bolder;
+  font-size: 60px;
+  text-decoration: overline;
+  padding-bottom: 40px;
+  padding-top: 80px;
+}
+
+.nosotros-style {
+  font-family: "Baloo 2", cursive;
+  color: #1fbdb7;
+}
+
+.contacto-styles {
+  font-family: "Baloo 2", cursive;
+  color: #1fbdb7;
+}
+
+.contacto-styles .info-fcontainer {
+  border-right: 2px double;
+  height: 80px;
+  margin-bottom: 40px;
+}
+
+.footer-style {
+  background-color: #1fbdb7;
+  color: #1fbdb7;
+  font-family: "Baloo 2", cursive;
+  font-size: 15px;
+  margin-top: 30px;
+  padding-top: 30px;
+}
+
+.footer-style a {
+  text-decoration: none !important;
+  color: #1fbdb7;
+}
+
+.footer-style h6 {
+  text-decoration: underline;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+
+.logo-whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right: 0%;
+  margin-right: 5px;
+}
+
+.banner-secciones {
+  margin-top: 70px;
+  border-radius: 30px;
+}
+
+.h2-secciones {
+  color: #1fbdb7;
+  font-family: "Baloo 2", cursive;
+  align-items: center;
+}
+
+.card-products {
+  color: #1fbdb7;
+  font-family: "Baloo 2", cursive;
+  background-color: #f6f6f6 !important;
+  border-color: #1fbdb7 !important;
+  border-width: 2px !important;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 450px;
+}
+
+.modal-header .modal-title {
+  color: #1fbdb7;
+  font-family: "Baloo 2", cursive;
+}
+
+.modal-body {
+  color: #1fbdb7;
+  font-family: "Baloo 2", cursive;
+}
+
+form .form-group {
+  font-family: "Baloo 2", cursive;
+  color: #1fbdb7;
+  font-size: 18px;
+}
+
+form {
+  margin-left: 30px;
+  align-content: center;
+}
+/* ------------------------------------------------------------------------------------------------ */
+  /* ajuste de margin del banner para las secciones */
+  .foto-banner {
+    margin-top: 70px;
+  }
+
+  /* quita la decoración del texto para los h4 */
+  .carrusel-photo {
+    height: 300px;
+  }
+
+  /* reduce el tamaño de las fotos del carrusel */
+  p {
+    font-size: smaller;
+  }
+
+  /* reduce el tamaño de todos los textos P en toda la página */
+  .card-products {
+    margin-left: 25px;
+  }
+  /* ajuste de tamaño letra para footer */
+  h2 {
+    font-size: medium;
+  }
+
+/*# sourceMappingURL=style.css.map */
